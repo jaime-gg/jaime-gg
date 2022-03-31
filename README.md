@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning javascript. 
 - 📱 Follow me on [LinkedIn](https://www.linkedin.com/in/jaime-gallegos-garcia-689632220)
 - 📫 How to reach me: jaimegg.ai@gmail.com
-- 💻 Website: [jaime-gg.com](jaime-gg.com) 
+- 💻 Website: jaime-gg.com
 - 😄 Pronouns: He / Him
 
