@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 Currently Attending Rice University's Coding Bootcamp. 
-- 🌱 I’m currently learning javascript. 
+- 🔭 Graduate of Rice University's Coding Bootcamp. 
+- 🌱 I’m currently learning Redux and refreshing myself on JavaScript. 
 - 📱 Follow me on [LinkedIn](https://www.linkedin.com/in/jaime-gallegos-garcia-689632220)
 - 📫 How to reach me: jaimegg.ai@gmail.com
 - 💻 Website: [jaime-gg.com](https://jaime-gg.com)
